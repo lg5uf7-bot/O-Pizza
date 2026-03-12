@@ -65,8 +65,8 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <span className="text-brand-500 font-bold">{t.contact.phone}:</span>
                 <div className="flex flex-col gap-2">
-                  <a href="tel:0690562171" className="text-stone-400 hover:text-brand-500 transition-colors flex items-center gap-2" dir="ltr">
-                    0690562171
+                  <a href="tel:0690562111" className="text-stone-400 hover:text-brand-500 transition-colors flex items-center gap-2" dir="ltr">
+                    0690562111
                   </a>
                 </div>
               </li>
